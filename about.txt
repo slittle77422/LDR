@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Legacy Doberman Rescue	</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:white;">
+
+<div class="navbar">
+   <div class="dropdown">
+  <button class="dropbtn" onclick="myFunction()">SITE MENU
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="home.html"><b>HOME</a>
+    <a href="contact.html"><b>CONTACT</b></a>
+    <a href="help.html"><b>HELP</b></a>
+  <a href="adopt.html"><b>ADOPT</b></a>
+<a href="foster.html"><b>FOSTER</b></a>
+<a href="about.html"><b>ABOUT</b></a>
+  <a href="alumni.html"><b>ALUMNI</b></a>
+            <a href="success.html"><b>SUCCESS</b></a>
+  </div>
+  </div> 
+</div>
+
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+
+<style>
+a:link {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: gold;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body style="background-color:white;">
+
+<center> <img src="logo.jpg" alt"Legacy Doberman Rescue'>  
+<br>
+
+
+
+<p style="font-family:'Arial'"><CENTER>
+<h2><p style="font-family:'Arial'">Who is Legacy Doberman Rescue?</h2>
+
+
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:left;font-family:Times New Roman, Times, serif;color:#1B1E22;font-size:14px;line-height:1.2;display:block;word-wrap:break-word;padding:10px 20px;" align="left" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><p style="text-align:right;margin:0;" align="right"><span style="font-family:Arial, Verdana, Helvetica, sans-serif;">April 2024</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="min-height:30px;line-height:30px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="75%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661image yiv2330676661image--padding-vertical yiv2330676661image--mobile-scale yiv2330676661image--mobile-center"> <tbody><tr> <td align="center" valign="top" style="padding-top:10px;padding-bottom:10px;" class="yiv2330676661image_container"> <img width="230" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Ffiles.constantcontact.com%2Fb27df4b8001%2Fbf7a3aac-b106-4b98-8558-c830171bc98b.jpg&t=1715602861&ymreqid=5010af7c-ba54-8bb5-1c49-ac0000013900&sig=QIm.aEc4lu43xPVa9qsVBg--~D" alt="" style="display:block;height:auto;max-width:100%;" class="yiv2330676661image_content"> </td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:45px;min-height:45px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--heading yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--heading yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:center;font-family:Times New Roman, Times, serif;color:#3a1e09;font-size:24px;line-height:1.2;display:block;word-wrap:break-word;font-weight:bold;padding:10px 20px;" align="center" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><div><div><span style="font-family:Arial, Verdana, Helvetica, sans-serif;">DPCA Rescue Newsletter</span></div></div></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:10px;min-height:10px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr></tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--heading yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:center;font-family:Times New Roman, Times, serif;color:#3a1e09;font-size:24px;line-height:1.2;display:block;word-wrap:break-word;font-weight:bold;padding:10px 20px;" align="center" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><div><div style="text-align:left;" align="left"><span style="font-size:16px;font-family:Arial, Verdana, Helvetica, sans-serif;">THANK YOU</span></div></div></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--padding-vertical"> <tbody><tr> <td style="line-height:1.2;text-align:left;font-family:Times New Roman, Times, serif;color:#1B1E22;font-size:14px;display:block;word-wrap:break-word;padding:10px 20px;" align="left" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><p style="margin:0;"><span style="font-size:15px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;">We want to thank our DPCA members for all your support.&nbsp;DPCA Rescue can’t help our Doberman rescue groups without you.&nbsp;Because of your generous donations, we have increased quarterly funding to assist our rescue groups.</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:13px;min-height:13px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:15px;min-height:15px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" cellpadding="0" cellspacing="0" border="0" class="yiv2330676661divider"> <tbody><tr> <td style="padding-top:9px;padding-bottom:9px;" width="100%" align="center" valign="top" class="yiv2330676661divider_container"> <table style="width:94%;min-height:1px;" cellpadding="0" cellspacing="0" border="0" class="yiv2330676661divider_content-row"> <tbody><tr> <td style="padding-bottom:0px;background-color:#45B3CA;min-height:1px;line-height:1px;border-bottom-width:0px;" height="1" align="center" bgcolor="#45B3CA" class="yiv2330676661divider_content-cell"> <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fimgssl.constantcontact.com%2Fletters%2Fimages%2F1101116784221%2FS.gif&t=1715602861&ymreqid=5010af7c-ba54-8bb5-1c49-ac0000013900&sig=gck75K6laFzMPvbom3.GAg--~D" style="display:block;min-height:1px;width:5px;"> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:10px;min-height:10px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--heading yiv2330676661text--padding-vertical"> <tbody><tr> <td style="line-height:1;text-align:center;font-family:Times New Roman, Times, serif;color:#3a1e09;font-size:24px;display:block;word-wrap:break-word;font-weight:bold;padding:10px 20px;" align="center" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal">
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="" class="yiv2330676661image yiv2330676661image--float-left yiv2330676661scale yiv2330676661image--mobile-scale yiv2330676661image--mobile-center"> <tbody><tr> <td align="" valign="" style="padding-top:0px;padding-bottom:10px;" class="yiv2330676661image_container yiv2330676661scale yiv2330676661stack"> <img width="53" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Ffiles.constantcontact.com%2Fb27df4b8001%2Fba599b36-a024-469b-8be0-2da3cf6389eb.png&t=1715602861&ymreqid=5010af7c-ba54-8bb5-1c49-ac0000013900&sig=.6Sg.ljn83YqJe7HFAF9Uw--~D" alt="" style="display:block;height:auto;max-width:100%;" class="yiv2330676661image_content"> </td> <td width="15" height="1" align="center" valign="top" style="min-height:1px;line-height:1px;padding:0px;" class="yiv2330676661image_spacer yiv2330676661hide"> <img alt="" width="15" height="1" border="0" hspace="0" vspace="0" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fimgssl.constantcontact.com%2Fletters%2Fimages%2Fsys%2FS.gif&t=1715602861&ymreqid=5010af7c-ba54-8bb5-1c49-ac0000013900&sig=AmJ_jX2QrXMI10ajfgCpwg--~D"> </td> </tr> </tbody></table> <p style="text-align:left;margin:0;" align="left"><span style="font-size:16px;font-family:Arial, Verdana, Helvetica, sans-serif;">FEATURED DOBERMAN RESCUE &amp; GROUP</span></p>
+</td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--heading yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:center;font-family:Times New Roman, Times, serif;color:#3a1e09;font-size:24px;line-height:1.2;display:block;word-wrap:break-word;font-weight:bold;padding:10px 20px;" align="center" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><p style="text-align:left;margin:0;" align="left"><span style="font-size:16px;font-family:Arial, Verdana, Helvetica, sans-serif;">Welcome Back Kim &amp; Val</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><div style="line-height:10px;min-height:10px;" class="yiv2330676661spacer"> </div></td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--article yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--article yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:left;font-family:Times New Roman, Times, serif;color:#1B1E22;font-size:14px;line-height:1.2;display:block;word-wrap:break-word;padding:10px 20px;" align="left" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal">
+<p style="margin:0;"><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;font-weight:bold;">Legacy Doberman Rescue</span><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;"> is the brainchild of Kim Capella, former founder of Gulf Coast Doberman Rescue, former DPCA rescue chair, and Doberman Pinscher whisperer.&nbsp;She asked some long-time partners in crime, Teresa Cook, Amy Daigle, and Valerie Crowell to join in this endeavor.&nbsp;They lost their collective minds and said “YES!” and Legacy was born.&nbsp;&nbsp;</span></p>
+<p style="margin:0;"><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;">&nbsp;</span></p>
+<p style="margin:0;"><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;">In 2004 when the DPCA sent a team to New Orleans to work with HSUS and the Louisiana SPCA, it was Kim and Valerie who broke down doors and snuck around the closed city to check on the homes of DPCA members and search for missing animals. They camped in Amy’s living room.&nbsp;Teresa is grateful to have missed that adventure.</span></p>
+</td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661image yiv2330676661image--padding-vertical yiv2330676661image--mobile-scale yiv2330676661image--mobile-center"> <tbody><tr> <td align="center" valign="top" style="padding:10px 20px;" class="yiv2330676661image_container yiv2330676661content-padding-horizontal"> <img width="578" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Ffiles.constantcontact.com%2Fb27df4b8001%2F75fcfa42-512f-4683-90a8-d6ad4a613c15.jpg&t=1715602861&ymreqid=5010af7c-ba54-8bb5-1c49-ac0000013900&sig=0CwuVqdfcPCsHM44e.iZFw--~D" alt="" style="display:block;height:auto;max-width:100%;" class="yiv2330676661image_content"> </td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:left;font-family:Times New Roman, Times, serif;color:#1B1E22;font-size:14px;line-height:1.2;display:block;word-wrap:break-word;padding:10px 20px;" align="left" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><p style="margin:0;"><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;">Mister was the first LDR dog, having been found dumped emaciated and heartworm-positive on a feeder road in Houston.&nbsp;After some groceries and temperament testing, Kim saw some unusual reactions from Mister.&nbsp;She suspected he’d been trained for protection and was therefore not suitable to be adopted by the public.&nbsp;As fate would have it, Mister hit the dog lottery and Kim found a working home for him and he’s living his best life.</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> 
+
+
+
+<table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+<table width="75%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661image yiv2330676661image--padding-vertical yiv2330676661image--mobile-scale yiv2330676661image--mobile-center"> <tbody><tr> <td align="center" valign="top" style="padding:10px 20px;" class="yiv2330676661image_container yiv2330676661content-padding-horizontal"> 
+
+<img src="jose.jpg"> </td> </tr> </tbody></table> </td> </tr> </tbody></table> 
+
+
+
+
+<table style="table-layout:fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--1-column"> <tbody><tr> <td style="width:100%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack">
+
+<table width="75%" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;" class="yiv2330676661text yiv2330676661text--padding-vertical"> <tbody><tr> <td style="text-align:left;font-family:Times New Roman, Times, serif;color:#1B1E22;font-size:14px;line-height:1.2;display:block;word-wrap:break-word;padding:10px 20px;" align="left" valign="top" class="yiv2330676661text_content-cell yiv2330676661content-padding-horizontal"><p style="margin:0;"><span style="font-size:16px;color:rgb(0, 0, 0);font-family:Arial, Verdana, Helvetica, sans-serif;">
+
+In January, the I Need A Drink litter came to Legacy.&nbsp;Mom weighed 44 pounds, and her 9 little puppies were in terrible shape, the smallest weighing just 2.5 pounds at 8 weeks of age. With the love of one of Legacy&#39;s foster homes Tequila, Pappy Van Winkle, Jose Cuervo, Jameson, Cristal, Brandy, Fireball, Moonshine, and Merlot flourished and are now in or headed to their forever homes.&nbsp;</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> <table style="table-layout:fixed;" width="75%" border="0" cellpadding="0" cellspacing="0" class="yiv2330676661layout yiv2330676661layout--2-column"> <tbody><tr> <td style="width:30%;" align="center" valign="top" class="yiv2330676661column yiv2330676661column--1 yiv2330676661scale yiv2330676661stack"><br><br>
+
+
+
+<center><img src="line.jpg" width="642"  height="63"><br><br>
+
+
+<h3><p style="font-family:'Arial'">The support of the Doberman community is critical in saving and rehoming all these little angels who have sadly been abandoned, dumped,<br> and discarded.</span></p></3>
+</span></p></table>
+
+
+<center><img src="line.jpg" width="642"  height="63"><br><br>
+
+<h4><p style="font-family:'Arial'">LDR is four women spread out across three states and a small but mighty band of foster homes.  We are not powerball millionaires. <br>In our first six months we took in 24 dogs, including two litters of abandoned puppies.  We have rehabilitated and placed 20 Dobermans so far! <br>(We also had a board member finish her Dobermans Championsip, another put 23 titles on her two Dobermans and we had two human grand babies).<br> We all work full time. Our rescue work is unpaid and expenses consistently exceed <br>our adoption fee.  We rely on foster homes and your donations to make this rescue succeed and save homeless Dobermans. <br> We are asked almost every day to take on a new Doberman. We encourage you to foster a dog, <br>make a monthly donation to LDR and participate in our ebay auctions.  Every little bit makes a huge difference to the <br>Dobermans who get to live fulfilling and rewarding lives with their new families.</h4><br>
+
+
+<center><img src="line.jpg" width="642"  height="63"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family:'Arial'"><CENTER><h3>
+</h3>
+
+
+
+<CENTER><h2><p style="font-family:'Arial'">
+Donate at:</h2><a href="https://www.paypal.me/LegacyDobermanRescue?locale.x=en_US"><img src="donatesm.jpg" alt="Donate to Legacy" width="189" height="171"></a><br><br><br>
+
+
+ 
+
+<table style="width:80%;" "color:black">
+
+
+            <tr>
+  <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="home.html"><b>HOME</b></a></td>
+
+              <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="contact.html"><b>CONTACT</b></a></td>
+
+
+
+                <td bgcolor="black"><p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="help.html"><b>HELP</b></a></td>
+
+              <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="adopt.html"><b>ADOPT</b></a></td>
+
+
+
+          <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+
+            <a href="foster.html"><b>FOSTER</b></a></td>
+
+
+
+           <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+<a href="about.html"><b>ABOUT</b></a>
+
+              <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="alumni.html"><b>ALUMNI</b></a></td>
+
+               <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="success.html"><b>SUCCESS</b></a></td> </tr>
+
+
+
+        </table>
+
+
+</p></h2></h1></h2><BR><BR>
+
+<footer id="footer" class="footer">
+			<div class="footer__copyright">
+					<p style="font-family:'Arial'">	© Copyright 2024 </a><br>
+Please email Legacy for information about rescuing, fostering, adopting, helping and supporting <a href="mailto:Legacydobermanrescue@gmail.com">Legacy Doberman Rescue</a>.<br>
+Contact <a href="mailto:slittle77422@yahoo.com">Webmaster</a> for problems or suggestions for website.</p>
+					</div>
+							</div>
+		</footer>
+	</div>
+
+
+<BR><BR></body>
+</html>

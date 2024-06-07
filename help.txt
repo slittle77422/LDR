@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Legacy Doberman Rescue	</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:white;">
+
+<div class="navbar">
+   <div class="dropdown">
+  <button class="dropbtn" onclick="myFunction()">SITE MENU
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="home.html"><b>HOME</a>
+    <a href="contact.html"><b>CONTACT</b></a>
+    <a href="help.html"><b>HELP</b></a>
+  <a href="adopt.html"><b>ADOPT</b></a>
+<a href="foster.html"><b>FOSTER</b></a>
+<a href="about.html"><b>ABOUT</b></a>
+  <a href="alumni.html"><b>ALUMNI</b></a>
+            <a href="success.html"><b>SUCCESS</b></a>
+  </div>
+  </div> 
+</div>
+
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+
+<style>
+a:link {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: gold;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body style="background-color:white;">
+
+<center> <img src="logo.jpg" alt="Legacy Doberman Rescue">  
+<br>
+<p align='Left'>
+<p style="font-family:'Arial'"><h2><p style="font-family:'Arial'">
+<h2 p style="font-family:'Arial'"> Want to adopt? Foster? Volunteer? <br>
+It takes a village to locate, transport, vet, foster, finance, and adopt a<br> Doberman in desparate need. Everyone can find a way to help!</br><br>
+
+<center><img src="adoptcar.jpg"><br><br>
+
+<h2>
+WANT TO BE AN LDR SUPERHERO??</h2>
+ <img src="calling.jpg" width="472" height="296" alt="Calling all Suoer Heroes">
+
+<h4>
+ Here are ways you can support our mission.<br>
+<img src="pawbuttonbullet.jpg" width="66" height="66" alt=""> <br>FOSTER<br>   Fostering is the most important role in making us succeed.   Fosters enable us to help dogs in dire need. <br> Temporarily take a dog into your home and give them their first glimpse of a normal dog’s life.   Most of our rescues have never known love. <br>We provide crates, food, and health care.   Many people say I could never do that! <br> I would want to keep them all!    You should know that loving a broken Doberman back to life<br> and then moving them forward in life to the perfect family is one of the most fulfilling experiences you can have. <br> These dogs KNOW when they’ve found their forever family and to see their happy faces when they leave you doesn’t hurt at all.<br><img src="pawbuttonbullet.jpg" width="66" height="66" alt=""> <br>
+DONATE<br> Every single dog we rescue receives medical care.  Some of them have serious medical issues but just the cost<br> of vaccines and spay/neuter is often more than the adoption fees we collect. Every donation no matter how small is <br>appreciated and put to good use.<br><img src="pawbuttonbullet.jpg" width="66" height="66" alt=""> <br>
+TRANSPORT<br>   Can you give a dog a ride?   We often have to shuffle dogs to vet appointments, between foster homes, some need a ride to come<br> into our program or to move into their forever home.  This is a great way to support our dogs.<br><img src="pawbuttonbullet.jpg" width="66" height="66" alt=""> 
+<br>CLERICAL<br> Have a laptop and some computer skills?   We need help with our website, maintenance of our dog records and if you’re <br>particularly talented, we are currently applying for our federal tax exempt non profit status<br> and it’s of course complicated and paperwork intensive.  
+If you’re able to help us please reach out to our<br> email vs sending a message on Facebook.  Our heart-shaped PayPal link is located on each page or email us!  </h4>
+
+
+
+<b>Location:</b><br>  Hutto, TX, United States, Texas<br>
+
+<b>Phone:<br> </b> (512) 703-7575<br>
+
+
+
+
+<CENTER>
+
+<a href="mailto:Legacydobermanrescue@gmail.com"><img src="email.jpg" width="289" height="110" alt="Email Legacy"> </a><br> 
+
+
+ <br>
+<p style="font-family:'Arial'"><h3>Want to help out? We’ve created an Amazon list to help you do just that! Visit the link below to our <br>Amazon Wishlist to help with our needs.<br>
+
+<a href="https://www.amazon.com/hz/wishlist/ls/3JHEO6DKZUFW8?ref_=wl_share&fbclid=IwZXh0bgNhZW0CMTEAAR0geT8JglnS0taaFaD7emruorvBq-q32hUIBOCc_p57pqw7tiGs2-Hhepk_aem_AYZYNQD3nHL4r0CHmNl_OzXpvVntfyiuGiEiMB4l1hoy6RT8H87MoTUdSrzgztgUdArmfA0_llWgeO5Mh-m-hrug"><img src="wish.jpg" width="204" height="171" img alt="Buy for Legacy Rescue"></a><br><br>
+
+
+<br><br><br><CENTER>
+
+
+<p style="font-family:'Arial'"><font color="black">
+
+<CENTER><h2><p style="font-family:'Arial'"><font color="black">
+Donate at:<br><a href="https://www.paypal.me/LegacyDobermanRescue?locale.x=en_US"><img src="donatesm.jpg" width="189" height="148" img alt="Donate to Legacy Rescue"> </h2></a><br></h3>
+<br></h2><h3></h1>
+
+
+<table style="width:75%;" "color:black">
+
+
+            <tr>
+  <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="home.html"><b>HOME</b></a></td>
+
+              <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="contact.html"><b>CONTACT</b></a></td>
+
+
+
+                <td bgcolor="black"><p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="help.html"><b>HELP</b></a></td>
+
+              <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="adopt.html"><b>ADOPT</b></a></td>
+
+
+
+          <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+
+            <a href="foster.html"><b>FOSTER</b></a></td>
+
+
+
+           <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+<a href="about.html"><b>ABOUT</b></a>
+
+              <td bgcolor="black">  <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="alumni.html"><b>ALUMNI</b></a></td>
+
+               <td bgcolor="black"> <p style="font-family:'Arial'"><CENTER>
+        <div class="topnav"><p style="font-family:'Arial'">
+            <a href="success.html"><b>SUCCESS</b></a></td> </tr>
+
+
+
+
+
+
+    </table>
+
+
+</p></h2></h1></h2><BR><BR>
+
+<footer id="footer" class="footer">
+			<div class="footer__copyright">
+					<p style="font-family:'Arial'">	© Copyright 2024 </a><br>
+Please email Legacy for information about rescuing, fostering, adopting, helping and supporting <a href="mailto:Legacydobermanrescue@gmail.com">Legacy Doberman Rescue</a>.<br>
+Contact <a href="mailto:slittle77422@yahoo.com">Webmaster</a> for problems or suggestions for website.</p>
+					</div>
+							</div>
+		</footer>
+	</div>
+
+
+<BR><BR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
